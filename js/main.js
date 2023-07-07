@@ -28,62 +28,62 @@ const app = {
     {
       name: "Thế Gian Mà Ta Yêu",
       singer: "Lưu Vũ Ninh",
-      path: "/assets/music/Thế Gian Mà Ta Yêu - Lưu Vũ Ninh.mp3",
-      image: "/assets/imgs/img_1.png"
+      path: "music/Thế Gian Mà Ta Yêu - Lưu Vũ Ninh.mp3",
+      image: "imgs/img_1.png"
     },
     {
       name: "Chấp Nhất Niệm",
       singer: "Hoàng Linh",
-      path: "/assets/music/Chấp Nhất Niệm - Hoàng Linh.mp3",
-      image: "/assets/imgs/img_2.png"
+      path: "music/Chấp Nhất Niệm - Hoàng Linh.mp3",
+      image: "imgs/img_2.png"
     },
     {
       name: "Huyền Điểu",
       singer: "Tát Cát",
-      path: "/assets/music/Huyền Điểu - Tát Cát.mp3",
-      image: "/assets/imgs/img_3.png"
+      path: "music/Huyền Điểu - Tát Cát.mp3",
+      image: "imgs/img_3.png"
     },
     {
         name: "Dùng Thân Thể Ta",
         singer: "Hoàng Tiêu Vân",
-        path: "/assets/music/Dùng Thân Thể Ta - Hoàng Tiêu Vân.mp3",
-        image: "/assets/imgs/img_4.png"
+        path: "music/Dùng Thân Thể Ta - Hoàng Tiêu Vân.mp3",
+        image: "imgs/img_4.png"
     },
     {
         name: "Bất Du",
         singer: "Diệp Huyền Thanh",
-        path: "/assets/music/Bất Du - Diệp Huyền Thanh.mp3",
-        image: "/assets/imgs/img_5.png"
+        path: "music/Bất Du - Diệp Huyền Thanh.mp3",
+        image: "imgs/img_5.png"
     },
     {
         name: "Hay Là Chúng Ta Cứ Như Vậy Một Vạn Năm",
         singer: "Hoàng Tiêu Vân",
-        path: "/assets/music/Hay Là Chúng Ta Cứ Như Vậy Một Vạn Năm - Hoàng Tiêu Vân.mp3",
-        image: "/assets/imgs/img_6.png"
+        path: "music/Hay Là Chúng Ta Cứ Như Vậy Một Vạn Năm - Hoàng Tiêu Vân.mp3",
+        image: "imgs/img_6.png"
     },
     {
         name: "Khúc Bình Phàm",
         singer: "Bất Tài",
-        path: "/assets/music/Khúc Bình Phàm - Bất Tài.mp3",
-        image: "/assets/imgs/img_7.png"
+        path: "music/Khúc Bình Phàm - Bất Tài.mp3",
+        image: "imgs/img_7.png"
     },
     {
         name: "Lần Đầu Yêu Nàng",
         singer: "Trương Lỗi",
-        path: "/assets/music/Lần Đầu Yêu Nàng - Trương Lỗi.mp3",
-        image: "/assets/imgs/img_8.png"
+        path: "music/Lần Đầu Yêu Nàng - Trương Lỗi.mp3",
+        image: "imgs/img_8.png"
     },
     {
         name: "Nguyệt Tẫn Vô Thanh",
         singer: "Hồ Ngạn Bân",
-        path: "/assets/music/Nguyệt Tẫn Vô Thanh - Hồ Ngạn Bân.mp3",
-        image: "/assets/imgs/img_9.png"
+        path: "music/Nguyệt Tẫn Vô Thanh - Hồ Ngạn Bân.mp3",
+        image: "imgs/img_9.png"
     },
     {
         name: "Đại Ngư",
         singer: "Châu Thâm",
-        path: "/assets/music/Đại Ngư - Châu Thâm.mp3",
-        image: "/assets/imgs/img_10.png"
+        path: "music/Đại Ngư - Châu Thâm.mp3",
+        image: "imgs/img_10.png"
     },
   ],
   setConfig: function (key, value) {
